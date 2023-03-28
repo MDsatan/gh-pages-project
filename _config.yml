@@ -21,7 +21,8 @@
 title: MDsatan's webpage
 email: won't tell you
 description: >- # this means to ignore newlines until "baseurl:"
-  
+
+Template Repository: https://github.com/MDsatan/mdsatan.github.io
   
 
 #baseurl: "" # the subpath of your site, e.g. /blog
