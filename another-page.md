@@ -4,6 +4,5 @@ layout: default
 
 ## You did it to yourself
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe src="https://www.youtube.com/embed/iik25wqIuFo" width="533" height="300" frameborder="0" allowfullscreen="" data-external="1"></iframe>
 [back](./)
